@@ -1,0 +1,11 @@
+C:\app\published-app\dotnetcore-tst.exe
+C:\app\published-app\appsettings.Development.json
+C:\app\published-app\appsettings.json
+C:\app\published-app\dotnetcore-tst.dll
+C:\app\published-app\dotnetcore-tst.deps.json
+C:\app\published-app\dotnetcore-tst.runtimeconfig.json
+C:\app\published-app\dotnetcore-tst.pdb
+C:\app\published-app\Microsoft.OpenApi.dll
+C:\app\published-app\Swashbuckle.AspNetCore.Swagger.dll
+C:\app\published-app\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\app\published-app\Swashbuckle.AspNetCore.SwaggerUI.dll
