@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yfMz2tn5PNyuDHhMXWeOTDp9UyJ+0uJOfqcoSSsmmW4=",
+  "Source": "dotnetcore-tst",
+  "BasePath": "_content/dotnetcore-tst",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

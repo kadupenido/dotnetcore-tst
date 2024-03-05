@@ -1,0 +1,11 @@
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\dotnetcore-tst.exe
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\appsettings.json
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\dotnetcore-tst.dll
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\dotnetcore-tst.deps.json
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\dotnetcore-tst.runtimeconfig.json
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\dotnetcore-tst.pdb
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\132895\OneDrive - Localiza\repos\dotnetcore-tst\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
